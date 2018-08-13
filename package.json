@@ -1,0 +1,28 @@
+{
+  "name": "safeup-core",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "dotenv": "^6.0.0",
+    "express": "~4.16.0",
+    "morgan": "~1.9.0"
+  },
+  "description": "Make your data feel safe",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinTechy/safeup.git"
+  },
+  "author": "Lionel Ovaert, Martin Techy",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MartinTechy/safeup/issues"
+  },
+  "homepage": "https://github.com/MartinTechy/safeup#readme"
+}
